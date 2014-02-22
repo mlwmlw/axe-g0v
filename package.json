@@ -1,0 +1,15 @@
+{
+  "name": "axe-g0v",
+  "version": "0.0.1",
+  "description": "axe.g0v.tw level 4",
+  "main": "index.js",
+  "dependencies": {
+    "q": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mlwmlw",
+  "license": "MIT"
+}
